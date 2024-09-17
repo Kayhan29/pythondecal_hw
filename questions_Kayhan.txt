@@ -1,0 +1,19 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd - goes to a directory
+ls - shows the contents of a directory
+cd .. - goes back one directory
+
+My computer terminal is in Git Bash
+
+2. Do you have pets? What kind?
+Don't have pets
+
+3. If you run across an error, what would your first course of action be?
+Panic
+
+4. Funniest thing that happened to you in high school.
+I graduated
+
+5. What is a python script? (Keep it simple)
+Way for human to give computer instructions
+
